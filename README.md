@@ -54,18 +54,7 @@ For each CNN architecture, the following are measured: parameter count (millions
 
 ## Setup Instructions
 
-### 1. Kaggle API access (one-time)
-
-The dataset is downloaded programmatically via the Kaggle API, which requires an authenticated request. This is a one-time setup:
-
-1. Go to kaggle.com/settings → API → "Create New Token." This downloads a `kaggle.json` file; open it in a text editor to find your username and key.
-2. In Colab, open the Secrets panel (key icon in the left sidebar).
-3. Add two secrets: `KAGGLE_USERNAME` and `KAGGLE_KEY`, using the values from `kaggle.json`.
-4. Enable "Notebook access" for both secrets.
-
-Once configured, the dataset download runs automatically every time the notebook is executed, with no further input required.
-
-### 2. Running the notebook
+### Running the notebook
 
 1. Upload `skin_cancer_transfer_learning.ipynb` to Google Colab.
 2. Set the runtime type to GPU.
