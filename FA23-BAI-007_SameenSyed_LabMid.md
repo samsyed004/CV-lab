@@ -1,9 +1,4 @@
 # Lab Mid Exam: HOG vs SIFT on Blood-Cell Images
-
-**Name:** ____________  **Registration number:** 007
-
-> **Before you submit:** the values shown as **[paste from your output]** are numbers I do not have, because they appear only when your notebook runs (chosen C, validation scores, confusion matrices, keypoint statistics). Copy them from your executed notebook. Every number in the answers must match your outputs. Everything else below uses numbers from outputs you already shared. Rewrite the text in your own words where you can. Delete this note before submitting.
-
 ## Personal settings
 
 | Setting | Rule | My value |
