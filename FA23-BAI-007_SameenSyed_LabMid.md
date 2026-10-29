@@ -50,7 +50,7 @@ The code printed the same feature length, **[confirm: 1764]**.
 The model is a StandardScaler followed by a LinearSVC. I tried C = 0.1, 1 and 10 and chose C using validation accuracy only.
 
 - Chosen C: **[paste from your output]**
-- Validation accuracy: **[paste from your output]**
+- Validation accuracy:74.2
 - Validation macro-F1: **[paste from your output]**
 - Confusion matrix (rows are true classes, columns are predicted): **[insert your printed matrix]**
 
